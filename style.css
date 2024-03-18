@@ -2,4 +2,24 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+.navigation{
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.cap{
+  font: 20px;
+}
+.graphs{
+  
+  padding: 10px;
+  width: 800px;
+}
+.sect{
+  float: left;
+  background-color: red;
+  width: 25%;
 }
